@@ -25,6 +25,8 @@ Changes are never to be made to the main branch. Make sure you fork the reposito
 using the prettier extension in Visual Studio Code or other similar formatting tools. Indentation level (2 spaces = 1 tab).
 
 ### 3. Create a Pull Request
-Once you have made your changes and are happy with it, create pull request linking to your created issue. This way your issue is closed on merge.
+Once you have made your changes and are happy with it, create pull a request linking to your open issue. This way your issue is closed on merge.
 Once your pull request has been submitted, a verified collaborator will review the changes and will either merge or request revisions. 
 
+### 4. Thanks for Contributing!
+Thanks for taking the time to contribute to this project! We hope that you know you are helping others benefit thanks to your contributions. Whether that be just ease of having your contribution to implement or actually learning new technics because of your contributions. Welcome to the Contributors club! 
