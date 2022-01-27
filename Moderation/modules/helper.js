@@ -1,3 +1,5 @@
+const random = require('random');
+
 exports.convertTime = async function(duration) {
 	const timeConverter = { "s": 1000, "m": 60000, "h": 3600000, "d": 86400000 };
 	console.log(duration.slice(0, -1));
@@ -7,4 +9,10 @@ exports.convertTime = async function(duration) {
 	const dateNow = new Date()
 	return timestamp = Math.floor((dateNow.getTime() + dur) / 1000);
 };
+
+exports.getCaseNumber = async function() {
+	 return Math.floor(random.int((min = 1000000), (max = 9999999)));
+};
+
+
 
