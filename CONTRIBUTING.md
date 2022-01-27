@@ -9,6 +9,7 @@ the risk of multiple contributors working on the same things.
 Please fill out your issue as such
 
 | Field | Description | Required? |
+|-------|-------------|-----------| 
 | Title | Enhancement / correction you propose being added. | true | 
 | Difficulty | Added for when you are not contributing this code yourself. Helps developers who want to contribute to know whether this may be something that they can take on based on their currently level of knowlege | false
 | Description | A detailed explanation of what you are proposing, how you or others may go about implementing this suggestion | true |
