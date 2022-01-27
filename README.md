@@ -15,10 +15,10 @@ provide hosting as a service.
 
 ## Contributing
 
-Contributions are welcome. To contribute view the [CONTRIBUTIONS.md](./CONTRIBUTIONS.md)
+Contributions are welcome. To contribute view the [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## LEGAL
-You can view the Repository's License here [LICENSE.md](./LICENSE.md)
+You can view the Repository's License here [LICENSE.md](./LICENSE)
 
 ### Collaborator / Contributors
 As a collaborator / contributor you acknowledge that any code you provide to this project is available to be used by all others within the project.
