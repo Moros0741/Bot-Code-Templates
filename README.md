@@ -15,13 +15,10 @@ provide hosting as a service.
 
 ## Contributing
 
-If you would like to contribute to this repository you are more than welcome to! All I ask is that you follow some simple guidelines: 
-
- - **Create an Issue**: Creating an issue allows others to know what is already in progress. Make sure to speak about what you are planning to add in depth. Doing so helps others avoid doing the same work for nothing.
- - **Fork the Repository**: Fork this repository and add your enhancements to that fork.
- - **Create a Pull Request**: Once you have added your enhancements to your fork, Create a pull request to this fork linking to your opened Issue. I will review the changes and merge what you have or speak to you about the commits.
+Contributions are welcome. To contribute view the [CONTRIBUTIONS.md](./CONTRIBUTIONS.md)
 
 ## LEGAL
+You can view the Repository's License here [LICENSE.md](./LICENSE.md)
 
 ### Collaborator / Contributors
 As a collaborator / contributor you acknowledge that any code you provide to this project is available to be used by all others within the project.
