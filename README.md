@@ -24,16 +24,17 @@ If you would like to contribute to this repository you are more than welcome to!
 ## LEGAL
 
 ### Collaborator / Contributors
-As a collaborator / contributor you acknowledge that any code you provide to this project is available to be used by all others within the project You understand that this project is licensed under the MIT license and therefore should be otherwise distributed / used undersuch a license. 
+As a collaborator / contributor you acknowledge that any code you provide to this project is available to be used by all others within the project.
+You understand that this project is licensed under the MIT license and therefore should be otherwise distributed / used under such a license. 
 
 ### Developers / Public
 The collaborators / contributors ask a few things of you. 
  - You do not use any of this code for malicious purposes. 
  - You will continue to use the code in this repository in accordance to the License of which you found it (MIT License)
 	
-Otherwise, feel free to use, modify, build upon the provided code here for your own purposes. 
+Otherwise, feel free to use, modify, and/or build upon the provided code here for your own purposes. 
 
 ## Disclaimer
 
-Neither myself or contributors / collaborators are not responsible for where the code in this repository ends up. We are not responsible or liable for any bad actors who use the code in this repository for anything other than its intended and stated purpose. Nor do we condone the use of the code provided for anything other than the best of intentions. 
+Neither myself nor contributors & collaborators are responsible for where the code in this repository ends up. We are not responsible or liable for any bad actors who use the code in this repository to cause damage or harm to property, persons or systems. Nor do we condone the use of the code provided for anything other than the best of intentions. 
 
