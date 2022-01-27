@@ -21,7 +21,7 @@ Contributions are welcome. To contribute view the [CONTRIBUTING.md](./CONTRIBUTI
 You can view the Repository's License here [LICENSE.md](./LICENSE)
 
 ### Collaborator / Contributors
-As a collaborator / contributor you acknowledge that any code you provide to this project is available to be used by all others within the project.
+As a collaborator / contributor you acknowledge that any code you provide to this project is available to be used by all others with access to the project.
 You understand that this project is licensed under the MIT license and therefore should be otherwise distributed / used under such a license. 
 
 ### Developers / Public
