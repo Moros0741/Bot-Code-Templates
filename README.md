@@ -21,17 +21,17 @@ If you would like to contribute to this repository you are more than welcome to!
  - **Fork the Repository**: Fork this repository and add your enhancements to that fork.
  - **Create a Pull Request**: Once you have added your enhancements to your fork, Create a pull request to this fork linking to your opened Issue. I will review the changes and merge what you have or speak to you about the commits.
 
- ## LEGAL
+## LEGAL
 
-		### Collaborator / Contributors
-	As a collaborator / contributor you acknowledge that any code you provide to this project is available to be used by all others within the project. You understand that this project is licensed under the MIT license and therefore should be otherwise distributed / used undersuch a license. 
+### Collaborator / Contributors
+As a collaborator / contributor you acknowledge that any code you provide to this project is available to be used by all others within the project You understand that this project is licensed under the MIT license and therefore should be otherwise distributed / used undersuch a license. 
 
-		### Developers / Public
-	The collaborators / contributors ask a few things of you. 
-		- You do not use any of this code for malicious purposes. 
-		- You will continue to use the code in this repository in accordance to the License of which you found it (MIT License)
+### Developers / Public
+The collaborators / contributors ask a few things of you. 
+ - You do not use any of this code for malicious purposes. 
+ - You will continue to use the code in this repository in accordance to the License of which you found it (MIT License)
 	
-	Otherwise, feel free to use, modify, build upon the provided code here for your own purposes. 
+Otherwise, feel free to use, modify, build upon the provided code here for your own purposes. 
 
 ## Disclaimer
 
