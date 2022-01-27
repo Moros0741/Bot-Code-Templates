@@ -6,7 +6,7 @@ Only needed if handling buttons on a global scale
 */
 
 // Required for guildProfile system
-const { GuildScheduledEventManager } = require("../models/guildSchema");
+const guildSchema = require("../models/guildSchema");
 
 module.exports = {
   name: "interactionCreate",
