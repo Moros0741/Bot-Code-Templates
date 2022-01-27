@@ -1,0 +1,16 @@
+{
+	"clientId": "",
+	"guildId": "",
+	"token": "",
+	"database_srv": "",
+	"webhooks": {
+		"logs": "",
+		"welcome": "",
+		"server": ""
+	},
+	"channels": {
+		"channelVarOne": "",
+		"channelVarTwo": "",
+		"channelVarThree": ""
+	}
+}

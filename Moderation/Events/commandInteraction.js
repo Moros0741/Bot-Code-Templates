@@ -2,10 +2,8 @@
 handles Slash commands recieved by the bot. 
 */
 
-const { GuildScheduledEventManager } = require("discord.js");
-
 // Needed for guildProfile
-//const guildSchema = require('../models/guildSchema');
+const guildSchema = require('../models/guildSchema');
 
 module.exports = {
   name: "interactionCreate",
@@ -21,6 +19,7 @@ module.exports = {
     If Implementing MongoDB with guildSchema model you will be able to inject the
 		functionality for updating & accessing the guildProfile into every interaction or
 		command that is received by the bot.
+    */
     
     let guildProfile = await guildSchema.findOne({guildId: interaction.guild.id});
 
@@ -30,7 +29,6 @@ module.exports = {
       });
       guildProfile = newProfile;
     };
-    */
 
     try {
       await command.execute(interaction, guildProfile);

@@ -6,7 +6,7 @@ Only needed if handling buttons on a global scale
 */
 
 // Required for guildProfile system
-//const { GuildScheduledEventManager } = require("../models/guildSchema");
+const { GuildScheduledEventManager } = require("../models/guildSchema");
 
 module.exports = {
   name: "interactionCreate",
@@ -18,6 +18,7 @@ module.exports = {
 		If Implementing MongoDB with guildSchema model you will be able to inject the
 		functionality for updating & accessing the guildProfile into every interaction or
 		command that is received by the bot.
+		*/
 
 		let guildProfile = await guildSchema.findOne({guildId: interaction.guild.id});
 
@@ -27,7 +28,6 @@ module.exports = {
 			});
 			guildProfile = newProfile
 		};
-		*/
 
     try {
       await buttonHandler.execute(interaction, guildProfile);
