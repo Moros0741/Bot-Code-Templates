@@ -16,6 +16,8 @@ const warn = {
 }
 */
 
+// CHORE: add permissions check
+
 const userSchema = require("../models/userSchema");
 const { MessageEmbed, Permissions } = require("discord.js");
 const { SlashCommandBuilder } = require("@discordjs/builders");
@@ -27,6 +29,15 @@ module.exports = {
   data: new SlashCommandBuilder()
     .setName("warn")
     .setDescription("Warn a member.")
+    .addStringOption((option) =>
+      option
+        .setName("choice")
+        .setDescription("What would you like to do?")
+        .setRequired(true)
+        .addChoice("Add", "add")
+        .addChoice("Delete", "delete")
+        .addChoice("View", "view")
+    )
     .addUserOption((option) =>
       option
         .setName("user")
