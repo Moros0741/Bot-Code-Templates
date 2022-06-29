@@ -4,6 +4,10 @@ const {
   Intents, 
   MessageEmbed 
 } = require("discord.js");
+const {
+  token,
+  database_srv
+} = require("./data/config.json");
 const fs = require("fs")
 const mongoose = require("mongoose");
 
