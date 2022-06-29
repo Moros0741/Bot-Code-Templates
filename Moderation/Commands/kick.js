@@ -1,5 +1,6 @@
 const { SlashCommandBuilder } = require("@discordjs/builders");
 const { MessageEmbed, Permissions } = require("discord.js");
+const { stripIndents } = require("common-tags");
 
 module.exports = {
   data: new SlashCommandBuilder()
@@ -35,10 +36,10 @@ module.exports = {
       const embed = new MessageEmbed()
         .setTitle("User Kicked!")
         .setDescription(
-          `
-User ${user.tag} was kicked successfully. 
+          stripIndents`User ${user.tag} was kicked successfully. 
 
-**Reason:** ${reason}`
+          **Reason:** ${reason}
+          `
         )
         .setColor("DEFAULT"); // Change later at branding
 
